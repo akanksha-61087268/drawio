@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T11:07:17.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="OLBZtmq8MUVpjCm-B94d" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-18T05:22:59.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7LDNR1k92be2vutm0deC" version="24.5.4" type="github" pages="3">
   <diagram name="TAOS-Existing" id="0bZHlfYN7akATkYM6QKt">
     <mxGraphModel dx="1666" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -351,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zJPH2Mstz--0EiQv52dw" name="TAOS-Proposed">
-    <mxGraphModel dx="1026" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,7 +450,7 @@
         <mxCell id="YW-xfm0U4P9xFcbSTIat-32" value="Upsellit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="-160" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YW-xfm0U4P9xFcbSTIat-36" value="TAOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YW-xfm0U4P9xFcbSTIat-36" value="TAOS&lt;br&gt;UI + Functional&lt;br&gt;Component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="-10" width="105" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YW-xfm0U4P9xFcbSTIat-37" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -465,8 +465,8 @@
             <mxPoint x="240" y="3" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YW-xfm0U4P9xFcbSTIat-42" value="&lt;b&gt;Next.js&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-40" width="60" height="30" as="geometry" />
+        <mxCell id="YW-xfm0U4P9xFcbSTIat-42" value="&lt;b&gt;Next.js/Catalyst&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YW-xfm0U4P9xFcbSTIat-43" value="CrazyEgg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="-210" width="80" height="20" as="geometry" />
@@ -517,6 +517,9 @@
         </mxCell>
         <mxCell id="k967A15Hq2TNNFxQv1cK-17" value="&lt;b&gt;Bigcommerce&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="262.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BG71PdOAVLRHkmWQ-Eya-1" value="Backend for Frontend&lt;br&gt;(BFF)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="97.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
