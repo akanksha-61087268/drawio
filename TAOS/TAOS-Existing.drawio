@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T11:44:21.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2Q8LdJJ2oEhc6EGa4rZL" version="24.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-18T11:45:32.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="muanKY6dTEedJtoUFF4j" version="24.5.5" type="github" pages="3">
   <diagram name="TAOS-Existing" id="0bZHlfYN7akATkYM6QKt">
     <mxGraphModel dx="2074" dy="2142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
         <mxCell id="ko2aZ8cguEOTKRJfTpgL-3" value="&lt;b&gt;Cart&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ko2aZ8cguEOTKRJfTpgL-7" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ko2aZ8cguEOTKRJfTpgL-7" value="Login/&lt;br&gt;Authentication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ko2aZ8cguEOTKRJfTpgL-8" value="Registration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
