@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T06:03:57.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="MN9t_KfamYKMPy5hWVKa" version="24.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-18T06:08:34.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="0blyjx68oyAykXWWzYjr" version="24.5.4" type="github" pages="3">
   <diagram name="TAOS-Existing" id="0bZHlfYN7akATkYM6QKt">
     <mxGraphModel dx="1666" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TAOS-Existing v2" id="5knb-oIzfvUUshnXeFY1">
-    <mxGraphModel dx="1026" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,11 +347,26 @@
         <mxCell id="MzsNZi5D_ojJI02Fckxd-2" value="Catalog" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="359" width="125" height="30.5" as="geometry" />
         </mxCell>
+        <mxCell id="gbW3NIe07OSjE-j6nifY-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gbW3NIe07OSjE-j6nifY-2" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gbW3NIe07OSjE-j6nifY-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gbW3NIe07OSjE-j6nifY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="90" as="sourcePoint" />
+            <mxPoint x="95" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="zJPH2Mstz--0EiQv52dw" name="TAOS-Proposed">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,6 +535,21 @@
         </mxCell>
         <mxCell id="BG71PdOAVLRHkmWQ-Eya-1" value="Backend for Frontend&lt;br&gt;(BFF)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-25" y="97.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f8GxFxSiPRu2TG-FCS3q-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f8GxFxSiPRu2TG-FCS3q-3" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f8GxFxSiPRu2TG-FCS3q-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f8GxFxSiPRu2TG-FCS3q-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="40" as="sourcePoint" />
+            <mxPoint x="90" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="-10" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
